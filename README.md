@@ -3,7 +3,9 @@
 WannaCry 2.0 Vaccine
 
 First World WannaCry 2.0 Vaccine.
+
 v1.0 features:
+
 +Added firewall blocks to prevent WC2.0 from spreding to your computer and using your computer to spread to the network.
 +Added feature to stop WC2.0 from using the known Windows security flaw to install and spread itself.
 
